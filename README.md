@@ -14,6 +14,7 @@
 | Barrio | San Felipe |
 | Correo Personal | eliascala130@gmail.com |
 | Correo Sena | elias.cardenas@soy.sena.edu.co |
+| Usuario Github | eliascardenass |
  
 ## Estudios 
 
