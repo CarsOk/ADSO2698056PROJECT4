@@ -88,7 +88,8 @@
 **Especificación de Requerimientos** 	
 
 1. # <a name="_gjdgxs"></a><a name="_toc12939817"></a>**Introducción**
-<a name="_30j0zll"></a>La siguiente Especificación de Requerimientos de Software (SRS) del sistema a construir, surge con la finalidad de proveer toda la información de lo que quiere el cliente que contenga el software. Tales requerimientos son la base a la hora de comenzar el desarrollo del Software. En este caso el software a desarrollar una aplicación para llevar control y registro de los pacientes de una odontología.
+<a name="_30j0zll"></a>La siguiente Especificación de Requerimientos de Software (SRS) del sistema a construir, surge con la finalidad de proveer toda la información de lo que quiere el cliente que contenga el software. Tales requerimientos son la base a la hora de comenzar el desarrollo del Software. En este caso el software a desarrollar una aplicación para llevar control y registro de los pacientes de una odontología la empresa se encuentra  ubicada en el barrio los olivos #2 111b2 Car.20 
+
 
 
 1. ## <a name="_1fob9te"></a><a name="_toc12939818"></a>**Propósito**
