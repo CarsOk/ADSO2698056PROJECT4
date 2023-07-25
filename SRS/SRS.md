@@ -129,7 +129,7 @@ En el ítem 3 se presenta una especificación detallada de requerimientos que so
 
 
 1. # <a name="_3dy6vkm"></a><a name="_toc12939823"></a>**Descripción General**
-Este software es una herramienta digital diseñada para ayudar a administrar y mejorar la eficiencia de las opraciones y servicios de un entorno odontologico. Esta diseñado para facilitar la gestion de pacietnes, citas, historialesmedicos, facturacion y otras tareas administrativas, asi como para mejorar la comunicacion entre el personal y los pacientes.
+Este software es una herramienta digital diseñada para ayudar a administrar y mejorar la eficiencia de las opraciones y servicios de un entorno odontologico. Esta diseñado para facilitar la gestion de pacientes, citas, historiales medicos, facturacion y otras tareas administrativas, asi como para mejorar la comunicacion entre el personal y los pacientes.
 
 1. ## <a name="_1t3h5sf"></a><a name="_toc12939824"></a>**Perspectivas del Producto**
 Con este sistema se espera mejorar la calidad de los servicios ofrecidos, aumentar la eficiencia operativa y,  en ultima instancia, contribuir al exito y crecimiento de la clinica en un mercado cada vez mas competitivo.
