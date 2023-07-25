@@ -129,9 +129,10 @@ En el ítem 3 se presenta una especificación detallada de requerimientos que so
 
 
 1. # <a name="_3dy6vkm"></a><a name="_toc12939823"></a>**Descripción General**
+Este software es una herramienta digital diseñada para ayudar a administrar y mejorar la eficiencia de las opraciones y servicios de un entorno odontologico. Esta diseñado para facilitar la gestion de pacietnes, citas, historialesmedicos, facturacion y otras tareas administrativas, asi como para mejorar la comunicacion entre el personal y los pacientes.
 
 1. ## <a name="_1t3h5sf"></a><a name="_toc12939824"></a>**Perspectivas del Producto**
-Con este sistema se espera una mejora en la forma de cómo se maneja el historial de los pacientes para facilitar el retratamiento y futuras citas en dicha odontología.
+Con este sistema se espera mejorar la calidad de los servicios ofrecidos, aumentar la eficiencia operativa y,  en ultima instancia, contribuir al exito y crecimiento de la clinica en un mercado cada vez mas competitivo.
 
 
 1. ## <a name="_toc12939825"></a>**Funciones del Producto**
@@ -195,7 +196,7 @@ El sistema será un apoyo para el historial y retratamiento de los pacientes de 
 <tr></tr>
 <tr><td colspan="1"><b>Descripción</b></td><td colspan="4"></b> El sistema debe permitir registrar el ingreso de los pacientes a las respectivas citas </td></tr>
 <tr><td colspan="1"><b>Entradas</b></td><td colspan="1"><b>Fuente</b></td><td colspan="1"><b>Salida</b></td><td colspan="1"><b>Destino</b></td><td colspan="1"><b>Restricciones</b></td></tr>
-<tr><td colspan="1" rowspan="2">Características del vehículo, SOAT, seguro, Tarjeta de propiedad.</td><td colspan="1" rowspan="2">Formulario de registro para las citas</td><td colspan="1" rowspan="2">Citas registradas</b> </td><td colspan="1" rowspan="2">Base de datos</td><td colspan="1" rowspan="2">N/A</td></tr>
+<tr><td colspan="1" rowspan="2">Fecha de la citas, datos personales de los pacientes.</td><td colspan="1" rowspan="2">Formulario de registro para las citas</td><td colspan="1" rowspan="2">Citas registradas</b> </td><td colspan="1" rowspan="2">Base de datos</td><td colspan="1" rowspan="2">N/A</td></tr>
 <tr></tr>
 <tr><td colspan="1" rowspan="2"><b>Proceso</b></td><td colspan="4" rowspan="2"><p>El usuario del sistema deberá registrar la siguiente información de la cita: </p><p>- Nombre, apellido, numero de identificación, fecha, hora, genero</p></td></tr>
 <tr></tr>
@@ -223,7 +224,7 @@ El sistema será un apoyo para el historial y retratamiento de los pacientes de 
 <tr></tr>
 <tr><td colspan="1"><b>Descripción</b></td><td colspan="4">Esta parte del sistema deberá permitir el registro de futuras citas o retratamientos de los pacientes para llevar un control detallado de estos.</td></tr>
 <tr><td colspan="1"><b>Entradas</b></td><td colspan="1"><b>Fuente</b></td><td colspan="1"><b>Salida</b></td><td colspan="1"><b>Destino</b></td><td colspan="1"><b>Restricciones</b></td></tr>
-<tr><td colspan="1" rowspan="2"><p></p><p>Información y/o características del objeto </p><p></p></td><td colspan="1" rowspan="2">Formulario para registro de retratamiento</td><td colspan="1" rowspan="2">Futura cita</td><td colspan="1" rowspan="2">` `Base de datos</td><td colspan="1" rowspan="2">NINGUNO</td></tr>
+<tr><td colspan="1" rowspan="2"><p></p><p>tipo de tratamiento, fecha de inicio, fecha de fin </p><p></p></td><td colspan="1" rowspan="2">Formulario para registro de retratamiento</td><td colspan="1" rowspan="2">Futura cita</td><td colspan="1" rowspan="2">` `Base de datos</td><td colspan="1" rowspan="2">NINGUNO</td></tr>
 <tr></tr>
 <tr><td colspan="1" rowspan="2"><b>Proceso</b></td><td colspan="4" rowspan="2"><p>El propietario/poseedor debe proporcionar la siguiente información:</p><p>- No. Identificación del paciente</p><p>- Nombre del paciente</p><p>- Fecha en la que esta destinada la cita</p></td></tr>
 <tr></tr>
