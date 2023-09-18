@@ -1,0 +1,40 @@
+class Aprendiz
+    attr_accessor :id, :correo, :dis, :edad
+    
+    def initialize(id,correo)
+        @id = id
+        @correo = correo
+        
+    end
+end
+
+aprendiz1 = Aprendiz.new(11129444,"cristian1224@gmial.com")
+aprendiz1.dis = 1;
+aprendiz1.edad = 18;
+
+puts aprendiz1.id;
+puts aprendiz1.correo;
+puts aprendiz1.dis;
+puts aprendiz1.edad;
+
+aprendiz2 = Aprendiz.new(2349434322,"juan1234@gmail.com")
+aprendiz2.dis = 0;
+aprendiz2.edad = 19;
+
+puts aprendiz2.id;
+puts aprendiz2.correo;
+puts aprendiz2.dis;
+puts aprendiz2.edad;
+
+aprendiz3 = Aprendiz.new(332389329833,"alex132@gmail.com")
+aprendiz3.dis = 1;
+aprendiz3.edad = 22;
+
+puts aprendiz3.id;
+puts aprendiz3.correo;
+puts aprendiz3.dis;
+puts aprendiz3.edad;
+
+aprendiz4 = Aprendiz.new(4423893284,"karen1232@gmial.com");
+aprendiz4.dis = 0;
+aprendiz4.edad = 19;
