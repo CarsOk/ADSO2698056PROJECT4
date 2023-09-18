@@ -1,0 +1,40 @@
+void main(){
+  Calculadora1 calculadora = new Calculadora1(nombre:"cristian");
+  print(calculadora.sumar());
+  print(calculadora.multiplicar()); 
+  print(calculadora.promedio());
+  calculadora.apellido= "fernandez";
+  print("${calculadora.nombre} ${calculadora.apellido}");
+  
+  calculadora.n1=2.1;
+  calculadora.n2=2.3;
+  calculadora.n3=2.3;
+   
+ 
+  
+}
+
+  class Calculadora1{
+   double? n1= 0;
+   double? n2= 0;
+   double? n3= 0;
+   String nombre;
+   String? apellido;
+     
+   Calculadora1({required this.nombre});
+      
+  double sumar(){
+     double respuesta = this.n1 + this.n2 + this.n3;
+     return respuesta;
+     } 
+  
+  double multiplicar(){
+     double respuesta= this.n1 * this.n2 * this.n3;
+     return respuesta;
+     }
+  
+  double promedio(){
+     double respuesta = promedio()/3;
+     return respuesta;
+     }
+}
