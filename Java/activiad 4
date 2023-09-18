@@ -1,0 +1,45 @@
+public class MyClass {
+    public static void main(String args[]) {
+   Instructor instructor = new Instructor();
+   instructor.nombre ="cristian";
+   instructor.apellido ="campo";
+   instructor.sueldo = 10000000;
+   
+   
+   System.out.println(instructor.sueldo);
+   
+   System.out.println(instructor.nombre); 
+   System.out.println(instructor.apellido);
+
+  
+   
+   
+   Aprendiz   aprendiz = new Aprendiz();
+   aprendiz.nombre = "juan";
+   aprendiz.apellido = "lozano";
+   aprendiz.ficha = 11939393;
+   
+   System.out.println(aprendiz.ficha);  
+  
+   System.out.println(aprendiz.nombre);
+   System.out.println(aprendiz.apellido);
+ 
+ } 
+ 
+     class Person{
+     String nombre;
+     String apellido;
+}
+
+     class lnstructor extends Person{
+     int sueldo;
+}
+
+ 
+ 
+     class Aprendiz extends Person{
+     int ficha;
+}
+  
+  
+  
