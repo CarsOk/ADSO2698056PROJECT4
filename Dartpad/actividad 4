@@ -1,0 +1,37 @@
+void main(){
+   Instructor instructor = new Instructor();
+   instructor.nombre ="cristian";
+   instructor.apellido ="campo";
+   instructor.sueldo = 10000000;
+   
+   
+   print(instructor.sueldo);
+   
+   print('${instructor.nombre} ${instructor.apellido}');
+
+   print('');
+   
+   
+   Aprendiz   aprendiz = new Aprendiz();
+   aprendiz.nombre = "juan";
+   aprendiz.apellido = "lozano";
+   aprendiz.ficha = 11939393;
+   
+   print(aprendiz.ficha);  
+  
+   print('${aprendiz.nombre} ${aprendiz.apellido}');
+ 
+ } 
+ 
+  class Person{
+  String? nombre;
+  String? apellido;
+}
+
+  class Instructor extends Person{
+    int? sueldo;
+ } 
+ 
+   class Aprendiz extends Person{
+    int? ficha;
+   }
