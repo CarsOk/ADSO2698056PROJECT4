@@ -1,0 +1,72 @@
+public class MyClass {
+    public static void main(String args[]) {
+        
+     Aprendiz cris = new Aprendiz(1129499343,"cristian12@gmail.com");
+    
+     cris.dis = 1;
+     cris.edad = 17; 
+     
+      System.out.println(cris.id);
+      System.out.println(cris.email);
+      System.out.println(cris.dis);
+      System.out.println(cris.edad);
+      System.out.println();
+      
+     Aprendiz juan = new Aprendiz(1129499343,"juan112@gmail.com");
+    
+     juan.dis = 1;
+     juan.edad = 17; 
+     
+      System.out.println(juan.id);
+      System.out.println(juan.email);
+      System.out.println(juan.dis);
+      System.out.println(juan.edad);
+      System.out.println();
+      
+      Aprendiz andres = new Aprendiz(1129499343,"andres12@gmail.com");
+    
+     andres.dis = 1;
+     andres.edad = 17; 
+     
+      System.out.println(andres.id);
+      System.out.println(andres.email);
+      System.out.println(andres.dis);
+      System.out.println(andres.edad);
+      System.out.println();
+      
+      Aprendiz alan = new Aprendiz(1129499343,"alan12@gmail.com");
+    
+     alan.dis = 1;
+     alan.edad = 17; 
+     
+      System.out.println(alan.id);
+      System.out.println(alan.email);
+      System.out.println(alan.dis);
+      System.out.println(alan.edad);
+      System.out.println();
+      
+       Aprendiz adrian = new Aprendiz(1129499343,"adrian12@gmail.com");
+    
+     adrian.dis = 1;
+     adrian.edad = 17; 
+     
+      System.out.println(adrian.id);
+      System.out.println(adrian.email);
+      System.out.println(adrian.dis);
+      System.out.println(adrian.edad);
+      System.out.println();
+      
+    }
+}
+    
+    class Aprendiz{
+     int id;
+     String email;
+     int edad;
+     int dis;
+  
+  Aprendiz(int id , String email){
+        this.id = id;
+        this.email = email;
+  }
+}
