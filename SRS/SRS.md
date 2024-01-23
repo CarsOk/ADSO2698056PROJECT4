@@ -8,7 +8,7 @@
 
 
 
-**ANALISIS,DISEÑO,DESARROLLO EINPLEMNTACION DE UN SISITEMA WEB EN EL CENTRO INDUSTRIAL Y DE AVIACION PARA SISITEMATIZAR Y CONTROLAR EL INGRESO Y SALIDA DE  VEHICULOS Y OBJETIVO (RIDENT)
+**ANALISIS,DISEÑO,DESARROLLO EINPLEMNTACION DE UN SISITEMA WEB EN EL CENTRO INDUSTRIAL Y DE AVIACION PARA SISITEMATIZAR Y CONTROLAR EL INGRESO DE SISTEMAS OBJETIVO (RIDENT)
 **
 
 
@@ -32,7 +32,7 @@
 
 |**Fecha**|**Versión**|**Descripción**|**Autor**|
 | :-: | :-: | :-: | :-: |
-|25-05-2023|1\.0|`  `Primera versión del software|<p>Cristian Fernández</p><p>Alan wadith</p><p>Elia cárdenas</p><p>Adriana carrillo  </p>|
+|25-05-2023|1\.0|`  `Primera versión del software|<p>Cristian Fernández</p><p>Alan wadith</p><p>Elia cárdenas</p><p>luis cabello  </p>|
 |||||
 
 `	`**Tabla de Contenido**		
